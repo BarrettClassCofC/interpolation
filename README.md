@@ -1,5 +1,3 @@
-md = '''# Math 545 Project
-
 ## Designing a Battery Percentage Indicator Using Interpolation
 
 ---
